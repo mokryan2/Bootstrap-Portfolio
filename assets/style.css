@@ -94,6 +94,9 @@ navbar.navbar-expand-lg.navbar-light.bg-light {
     width: 220px;
     border:1px solid black;
 }
+.imageToken:hover{
+    cursor: pointer;
+}
 
 .imgTag {
     position: absolute;
@@ -107,6 +110,10 @@ navbar.navbar-expand-lg.navbar-light.bg-light {
     height: 35px;
     padding-top: 8px;
     text-align: center;
+}
+
+.imgTag:hover{
+    cursor: pointer;
 }
 
 /* Contact Page */
